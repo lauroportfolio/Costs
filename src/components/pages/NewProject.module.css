@@ -1,0 +1,40 @@
+.newproject_container {
+    width: 450px;
+    margin: 0 auto;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Tirar esses 3 últimos itens caso queira alinhar ao início */
+}
+
+.newproject_container h1 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    margin-bottom: .5rem;
+}
+
+.newproject_container p {
+    font-family: 'Poppins';
+    font-size: 13px;
+    color: #7b7b7b;
+}
+
+.newproject_container .backBtn {
+    margin-top: -3.7rem;
+    margin-left: 11.5rem;
+    margin-bottom: 1rem;
+    background-color: #222;
+    color: #fff;
+    padding: .7rem 3.4rem; /* Voltar - .7rem 4.1rem */
+    text-decoration: none;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+}
+
+
+.newproject_container .backBtn:hover {
+    color: #ffbb33;
+}

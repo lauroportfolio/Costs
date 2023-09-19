@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #222;
+    padding: 1rem;
+    font-family: 'Poppins';
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item {
+    margin-right: 1rem;
+}
+
+.item a {
+    color: #fff;
+    text-decoration: none;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+
+.item a:hover {
+    color: #ffbb33;
+}

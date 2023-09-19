@@ -1,0 +1,128 @@
+{
+  "projects": [
+    {
+      "name": "Projeto Milionários",
+      "budget": "30000",
+      "categories": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 30000,
+      "services": [
+        {
+          "name": "Especialista em TP",
+          "cost": "5000",
+          "description": "Irá cuidar do tráfego pago da empresa",
+          "id": "2f240482-88ea-403e-8b1f-20659f61f2f1"
+        },
+        {
+          "name": "Suporte",
+          "cost": "3500",
+          "description": "Irá fazer o suporte via wpp",
+          "id": "6365c310-3151-486b-91f0-2b165749780e"
+        },
+        {
+          "name": "Designer",
+          "cost": "4500",
+          "description": "Criará os designs para campanhas",
+          "id": "e7fcf640-b25a-455e-a7f0-69518eca2f50"
+        },
+        {
+          "cost": "3000",
+          "name": "Vendedor",
+          "description": "Irá atender pelo wpp os clientes",
+          "id": "48a824bd-86a5-4bd7-83e5-7dacde15ff0f"
+        },
+        {
+          "name": "Criação",
+          "cost": "2000",
+          "description": "Verba destinada a criação de mais PLR's",
+          "id": "957e9f0d-1b49-4064-afb5-ea7a4c4974b9"
+        },
+        {
+          "name": "Financeiro",
+          "cost": "3000",
+          "description": "Irá cuidar das finanças da empresa",
+          "id": "3a7b85ca-762f-4d9c-bdfb-2aff7340b5f3"
+        },
+        {
+          "cost": "2000",
+          "name": "Marketing",
+          "description": "Ficará encarregado das redes sociais da empresa",
+          "id": "df66d96b-bc00-45ff-a342-29754993fa6a"
+        },
+        {
+          "cost": "7000",
+          "name": "Verba de Emergência",
+          "description": "Dinheiro destinado a situações de emergência",
+          "id": "396836db-8b6b-45e9-a3a7-33ef972c71d5"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Projeto Portfolio",
+      "budget": "5000",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "cost": "2000",
+          "name": "Dev Front End",
+          "description": "Cuidará do Front End do portfolio",
+          "id": "ea87bafa-bbfe-43c5-90b6-e8907199dc46"
+        },
+        {
+          "description": "Cuidará do Back End do portfolio",
+          "cost": "3000",
+          "name": "Dev Back End",
+          "id": "06b5f307-1dd1-4fd3-8c6e-c3f1918b5386"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Casamento",
+      "budget": "75000",
+      "categories": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "churrasco amigos gv",
+      "budget": "10000",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

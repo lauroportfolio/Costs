@@ -1,0 +1,35 @@
+.home_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* alinhar os itens na vertical */
+    justify-content: center; /* alinhar os itens na horizontal */
+    padding: 4rem;
+}
+
+.home_container h1 {
+    font-size: 2.5rem;
+    margin-bottom: .5rem;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+.home_container h1 span {
+    color: #ffbb33;
+    padding: 0 .5rem;
+    background-color: #222;
+    border-radius: 5px;
+}
+
+.home_container p {
+    font-family: 'Poppins';
+    font-size: 13px;
+    margin-bottom: 1.5rem;
+    color: #7b7b7b;
+}
+
+.home_container img {
+    width: 350px;
+    margin: 2rem 0;
+    margin-left: 15px;
+}
